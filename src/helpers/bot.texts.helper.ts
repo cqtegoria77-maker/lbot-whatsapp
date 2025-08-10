@@ -52,8 +52,9 @@ const botTexts = {
     owner_not_found: 'O número do DONO ainda não foi configurado, digite !admin para cadastrar seu número como dono do bot.',
     migrating_database: '! O banco de dados está sendo migrado, por favor aguarde...',
     user_types: {
-        owner: '💻 Dono',
-        admin: '⭐ Admin',
+        owner: '💻 Dasilva',
+        admin: '⭐ Equipe Superior',
+        admin: '⭐ Equipe',
         user: '👤 Usuário',
     },
     disconnected:{
